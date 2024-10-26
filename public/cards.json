@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "price": "$200",
+    "imageUrl": "https://i.ibb.co/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "price": "$180",
+    "imageUrl": "https://i.ibb.co/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "rating": "Left-Hand-Bat",
+    "price": "$220",
+    "imageUrl": "https://i.ibb.co/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "rating": "Left-Hand-Bowl",
+    "price": "$150",
+    "imageUrl": "https://i.ibb.co/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "price": "$190",
+    "imageUrl": "https://i.ibb.co/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "rating": "Left-Hand-Bowl",
+    "price": "$170",
+    "imageUrl": "https://i.ibb.co/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "rating": "Right-Hand-Bat",
+    "price": "$210",
+    "imageUrl": "https://i.ibb.co/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  },
+  {
+    "id": 8,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": "Left-Hand-Bat",
+    "price": "$185",
+    "imageUrl": "https://i.ibb.co/WkbpnQ4/ai-generated-7923130-960-720.jpg"
+  }
+]
